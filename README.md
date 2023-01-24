@@ -5,6 +5,11 @@
 ## Design:
   
   O design foi desenvolvido conforme instruções fornecidas.
+  
+  ![frontend1](https://user-images.githubusercontent.com/72530000/214437276-dd402134-ab23-47ba-ba82-78a3b209dda0.png)
+  
+  ![frontend2](https://user-images.githubusercontent.com/72530000/214437365-241269d5-7a4a-437b-8d7f-3500faf97988.png)
+
 
 ## Iniciando a aplicação:
 
